@@ -1,0 +1,54 @@
+Condensed Library split archive
+Source archive: Condensed_Library_2026-09-07.zip
+Parts: 7
+Each ZIP is a standalone archive and is under 25,000,000 bytes.
+Total source entries represented: 474
+
+Condensed_Library_2026-09-07_Part_01_of_07.zip
+  ZIP bytes: 17128346
+  ZIP MiB: 16.33
+  Files: 10
+  Uncompressed bytes represented: 22774712
+  SHA256: a9decc6f428a9766a49b0028768f22fbc40b91faf0f147e69813272800bd5c98
+
+Condensed_Library_2026-09-07_Part_02_of_07.zip
+  ZIP bytes: 21843259
+  ZIP MiB: 20.83
+  Files: 90
+  Uncompressed bytes represented: 23851038
+  SHA256: 857c20aa64c842d05cc6f7e32f878ef53c285d78214f4f501fb27d116369af90
+
+Condensed_Library_2026-09-07_Part_03_of_07.zip
+  ZIP bytes: 22920588
+  ZIP MiB: 21.86
+  Files: 39
+  Uncompressed bytes represented: 23692330
+  SHA256: 298837a8aabc0ef13e4e7b14a1eeb9d2d3c8cb29b931a11af8abed0e26280ae3
+
+Condensed_Library_2026-09-07_Part_04_of_07.zip
+  ZIP bytes: 15018435
+  ZIP MiB: 14.32
+  Files: 305
+  Uncompressed bytes represented: 23190880
+  SHA256: 7052b1e1a16af02f889f926497bdd562f59169e4433759c1f84e8a1a4815294f
+
+Condensed_Library_2026-09-07_Part_05_of_07.zip
+  ZIP bytes: 20911180
+  ZIP MiB: 19.94
+  Files: 8
+  Uncompressed bytes represented: 21242553
+  SHA256: 17947ab99d10d06fcebb644afbf2c407252e97ff59c952d88f0d69c661a46f1a
+
+Condensed_Library_2026-09-07_Part_06_of_07.zip
+  ZIP bytes: 21266464
+  ZIP MiB: 20.28
+  Files: 8
+  Uncompressed bytes represented: 21544945
+  SHA256: c4357e3c8d009f229ea0f5ab2eeabef3d3e422c3f8a29b5c328b05e64e07ee11
+
+Condensed_Library_2026-09-07_Part_07_of_07.zip
+  ZIP bytes: 18687554
+  ZIP MiB: 17.82
+  Files: 14
+  Uncompressed bytes represented: 19012604
+  SHA256: d7fc786cbed6af0b2b67c949a41fc3e7e08b708e244a27eead6e2a75f0b8ebd1
